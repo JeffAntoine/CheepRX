@@ -24,6 +24,9 @@ After you clone repo:
 * [VISUAL STUDIO](https://www.visualstudio.com/) - main editor used by the team
 
 
+### Main Page before user query made
+![CHEEPRX](https://github.com/JeffAntoine/CheepRX/blob/master/capture%20cheep%20rx%20stufff.PNG)
+
 ### Contributing
 
 go ahead and pull and help us out anyway you see fit
